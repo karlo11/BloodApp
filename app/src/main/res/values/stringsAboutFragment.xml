@@ -1,0 +1,413 @@
+<resources>
+    <string name="pitanje1" formatted="false"><b>TKO MOŽE DARIVATI KRV?</b>\n
+         Krv može darivati svaki čovjek dobrog općeg zdravstvenog stanja:
+         - Dob: od 18 do 65 godina, do 60 godina ako krv daje prvi put, do 70 godina 1-2 godišnje nakon pregleda i odluke liječnika specijalista transfuzijske medicine.
+         - Tjelesna težina: iznad 55 kg, proporcionalna visini.
+         - Tjelesna temperatura: do 37°C.
+         - Krvni tlak: sistolični 100 do 180 mm Hg, dijastolični 60 do 110 mm Hg.
+         - Puls: 50 do 100 otkucaja u minuti.
+         - Hemoglobin: muškarci 135 g/L, žene 125 g/L.
+         - U Hrvatskoj, muškarci, darivatelji pune krvi smiju dati krv do 4 puta godišnje, s razmakom između darivanja od 3 mjeseca. Žene, darivateljice pune krvi, smiju dati krv do 3 puta godišnje, s razmakom između darivanja od 4 mjeseca.
+    </string>
+    <string name="pitanje2" formatted="false">
+
+     <b>KAKO SE DARUJE KRV?  </b>\n
+    
+    Darivanje krvi jednostavan je postupak.
+    Vaše zdravlje nam je značajno i stoga svako darivanje krvi uključuje provjeru vašeg zdravstvenog stanja.
+     Provjera količine željeza u krvi:
+    brzom metodom, iz kapljice krvi dobivene laganim ubodom u jagodicu prsta.
+        Kratki razgovor s liječnikom:
+    provjera vašeg dosadašnjeg i sadašnjeg zdravstvenog stanja.
+     Liječnički pregled:
+    Uključuje provjeru krvnog tlaka i provjeru rada srca.
+    Tek kada smo sigurni da smijete dati krv započinje postupak uzimanja krvi.
+     Darivatelj krvi je udobno smješten na krevetu za davanje krvi:
+    Iskusan zdravstveni tehničar odabire venu u lakatnoj jami i bezbolno uvodi iglu u venu.
+    Igla je povezana s plastičnom vrećicom u koju se daje krv.
+    Samo darivanje krvi traje 8 - 12 minuta. Igla i plastična vrećica za uzimanje krvi su sterilne i samo za jednokratnu uporabu, tj. mogu se primijetiti samo za jednokratno darivanje.
+    Davatelju nakon darivanja krvi slijedi kratkotrajni odmor uz osvježenje i lagani obrok.
+     Sveukupno, darivanje krvi vam može oduzeti oko 30 minuta vašeg vremena.
+
+    </string>
+    <string name="pitanje3" formatted="false">
+
+     <b>ŠTETI LI DARIVANJE KRVI ZDRAVLJU? </b>\n
+    
+    Darivanje krvi ne šteti zdravlju ako se provedu svi propisani postupci pri odabiru darivatelja krvi. Svaka zdrava osoba između 18 i 65 (70) godina starosti može bez opasnosti za svoje zdravlje darovati krv, 3 do 4 puta tijekom jedne godine.
+
+    Zdrav organizam darivatelja krvi vrlo brzo u potpunosti nadoknađuje količinu i sve sastavne dijelove darovane krvi: već unutar 24 sata organizam nadoknadi tekući dio krvi - plazmu i njene sastojke, broj trombocita i leukocita. Eritrociti se nadoknade unutar 4 do 6 tjedana.
+    Darivanje krvi najviše utječe na željezo koje se u obliku hemoglobina nalazi u eritrocitima (crvene krvne stanice).
+    Darivanjem 450 mL krvi darivatelj gubi oko 200 mg željeza. Organizam nadoknađuje gubitak željeza u roku 1 do 2 mjeseca povećanom apsorpcijom iz hrane.
+    Prije svakog darivanja krvi obvezno provjeravamo zdravstveno stanje darivatelja i količinu željeza u njegovoj krvi. Krv se uzima samo kada je darivatelj zdrav i ima dovoljno željeza.
+    Darivanje krvi nikako ne ugrožava zdravlje davatelja. Darivanje krvi ujedno je i kontrola zdravlja darivatelja.
+
+    </string>
+    <string name="pitanje4" formatted="false">
+
+     <b>MOŽE LI SE DARIVANJEM KRVI ZARAZITI OD NEKE BOLESTI? </b>\n
+    
+    Tijekom darivanja krvi ne postoji mogućnost zaraze davatelja.
+    Sav pribor za uzimanje krvi - igle, plastične vrećice i ostali materijal koji se koristi pri uzimanju krvi su sterilni i za jednokratnu su uporabu. Pribor je napravljen na način koji onemogućuje njegovu ponovnu uporabu.
+
+    </string>
+    <string name="pitanje5" formatted="false">
+
+    <b> RAZVIJA LI SE OVISNOST ZA DARIVANJE KRVI? </b>\n
+    
+    Darivanje krvi ne uzrokuje ovisnost u  darivatelja krvi.
+    Darivanjem krvi može se započeti i prestati u svako doba između 18 i 65 (70)  godina života.
+    Darivanjem krvi ne nastaju nikakve štetne tjelesne promjene ili posljedice po organizam.
+    Neki ljudi se ipak bolje osjećaju nakon što daruju krv i zato daruju krv nekoliko puta godišnje. Ta je pojava češća u osoba s blago povišenim krvnim tlakom. U tih je osoba darivanje krvi ujedno i način ublažavanja simptoma uzrokovanih blagim povišenjem krvnog tlaka, ali nije način liječenja povišenog tlaka.
+
+    </string>
+    <string name="pitanje6" formatted="false">
+
+     <b>ZAŠTO SE ODMAH NAKON DARIVANJA KRVI NE SMIJE PUŠITI?   </b>\n
+    
+    Mnogi se pušači - darivatelji krvi ljute kada ih zamolimo da ne zapale cigaretu odmah nakon darivanja.
+    Jedna od rjeđih, ali neugodnih reakcija organizma na pušenje je kratkotrajno stiskanje (spazam) krvnih žila u mozgu. Stoga, ako se zapuši odmah nakon završenog darivanja krvi, u nekih, osobito mlađih osoba, može doći do blage omaglice i mučnine. Postoji još čitav niz zdravstvenih i društvenih razloga koji pokazuju da ne bi trebalo pušiti, zar ne?
+
+    </string>
+    <string name="pitanje7" formatted="false">
+
+    <b> ZAŠTO NEKIM DARIVATELJIMA OTEKNE MJESTO UBODA IGLE KROZ KOJU JE UZETA KRV?   </b>\n
+    
+    Uzimanje krvi izvodi se ubodom sterilnom iglom u venu lakatne jame. Darivanje traje 8 do 12 minuta i kroz to vrijeme igla se nalazi u veni. Po završetku uzimanja krvi igla se vadi, a kožu se na mjestu uboda zaštićuje gužvicom vate (Tupfer, njem).  Da bi se ubrzalo zatvaranje otvora u veni, ispružena ruka se podiže u vis. U većini je slučajeva otvor u veni potpuno zatvoren u roku od par minuta i na koži ostaje samo mali trag uboda.
+    U oko 1 do 2% darivatelja krvi oko mjesta uboda nastaje oteklina s promjenom boje kože (hematom), uz osjećaj zatezanja i lagane boli. Oteklina može nastati tijekom ili nakon darivanja. Uzrok otekline tijekom darivanja posljedica je težeg uvođenja igle u venu ili lošeg položaja igle u veni, zbog kojeg mali dio krvi uz iglu izlazi u potkožno tkivo.
+    Oteklina koja nastane nakon darivanja uzrokovana je nedovoljnim stiskanjem (spazmom) vene ili jačim pokretima ruke. Oteklina nije opasna nuspojava darivanja krvi. Oteklina se liječi oblogom od alkohola i mirovanjem ruke. Ako se stanje ne popravi za 2 do 3 dana, potrebno je javiti se u transfuzijsku ustanovu ili liječniku opće prakse.
+
+    </string>
+    <string name="pitanje8" formatted="false">
+
+     <b>ZAŠTO SE NEKI DARIVATELJI NE OSJEĆAJU DOBRO NAKON DARIVANJA KRVI?   </b>\n
+    
+    Većina zdravih osoba koje daruju krv podnosi gubitak 450 mL  krvi bez ikakvih nuspojava. Nuspojave su tijekom davanja krvi rijetkost i opažaju se u oko 3 do 5% davanja krvi. Nuspojave se mogu pojaviti tijekom darivanja, ali i do više  sati nakon darivanja krvi.
+    Nuspojave mogu biti blage, srednje teške i teške.
+    Najčešće se javljaju blage nuspojave poput nelagode, nervoze, zabrinutosti, ubrzanog ili dubokog disanja, bljedoće i znojenja, vrtoglavice i magljenja pred očima, te mučnina i povraćanja.
+    Srednje i jake nuspojave su vrlo rijetke i opažaju se u 1 do 3% svih nuspojava. To su nesvjestica i grčevi. Najčešći uzrok nuspojava su strah od darivanja krvi, premorenost ili neispavanost, zbog čega se organizam nije u stanju prilagoditi kratkotrajnom gubitku krvi.
+
+    </string>
+    <string name="pitanje9" formatted="false">
+
+     <b>ZAŠTO SE NEKI LJUDI NE ODLUČUJU DARIVATI KRV? </b>\n
+
+    U Hrvatskoj se prikupi godišnje 38 doza krvi/1000 stanovnika, iako postoje uvjeti da dobrovoljno davalaštvo krvi bude razvijeno kao i u Zapadnoj Europi (50 darivanja/1000 stanovnika).
+    Anketirali smo ljude o motivima za darivanje krvi:
+    Odgovori darivatelja krvi: najčešći razlog zbog kojeg daruju krv je izrazito human - želja da se učini dobro djelo i da se pomogne bolesniku. Darivatelji krvi imaju divan osjećaj osobnog zadovoljstva da su spasili nečiji život.
+    Odgovori ne darivatelja krvi: najčešći razlog za nedarivanje krvi je strah i slabo znanje o potrebama i samom darivanju krvi.
+    Sve što je u svezi s darivanjem krvi treba biti javno, bez tajni, dobro obrazloženo. Sve nejasnoće i zablude trebaju biti razjašnjene jer se time razbija strah u ljudi. Što je bolje informirano pučanstvo, veća je vjerojatnost da će ljudi prepoznati neke od motiva za darivanje krvi.
+
+    </string>
+    <string name="pitanje10" formatted="false">
+
+     <b>KOJE OSOBINE IMA PROSJEČNI DOBROVOLJNI DARIVATELJ KRVI U HRVATSKOJ? </b>\n
+
+    Prosječna je dob darivatelja krvi u Hrvatskoj 32 godine.
+    Davatelji  krvi pretežno su muškarci, osobe u braku koje imaju jedno ili više djece i pripadaju srednjem socijalno-ekonomskom sloju.
+    Vrlo često te osobe imaju izražen socijalni osjećaj i aktivne su u različitim kulturnim i športskim društvima.
+
+    </string>
+    <string name="pitanje11" formatted="false">
+
+     <b>GDJE I KADA SE MOŽE DARIVATI KRV? </b>\n
+
+    Krv možete darivati svakodnevno na organiziranim akcijama darivanja krvi kao i u nekim transfuzijskim centrima.
+    Redovite akcije darivanja krvi provode se u svim većim radnim organizacijama i mjesnim zajednicama.
+    Vrijeme i mjesto održanja akcija najavljuju se putem javnih glasila (novine, radio, TV, na web stranicama), a mjesto davanja obilježeno je plakatima.
+    Davatelji krvi u Zagrebu mogu dati krv svakoga dana u Hrvatskom zavodu za transfuzijsku medicinu, u Petrovoj 3, od ponedjeljka do petka, od 07:30 do 19:00 sati, a subotom od 07:30 do 15:00 sati.
+    Informaciju o mogućnosti darivanja krvi u drugim transfuzijskim centrima možete dobiti izravno u svakom centru.
+
+    </string>
+    <string name="pitanje12" formatted="false">
+
+     <b>ZAŠTO JE POTREBNA TOČNA IDENTIFIKACIJA DARIVATELJA KRVI? </b>\n
+
+    Prije nego pristupite darivanju krvi tražimo od vas osobnu iskaznicu i podatke koje provjeravamo prije svakog sljedećeg darivanja krvi:
+
+    Ime i prezime,
+    mjesto rođenja,
+    JMBG (jedinstveni matični broj građana),
+    adresu stanovanja,
+    mjesto zaposlenja,
+    broj telefona u stanu i na poslu,
+    Knjižicu darivatelja krvi i broj dosadašnjih darivanja krvi, ako imate.
+    Svakoj osobi koja odluči darivati krv kompjutorski otvaramo Karton darivatelja krvi, u  kojeg se uz osobne podatke unose i slijedeći podaci:
+
+    Mjesto darivanja krvi,
+    broj trenutnog darivanja,
+    ime liječnika koji je pregledao darivatelja,
+    rezultat liječničkog pregleda prije darivanja,
+    razlozi za odgađanje od darivanja ili trajno isključenje,
+    nuspojave tijekom darivanja,
+    ime djelatnika koji je izvršio uzimanje krvi,
+    rezultate laboratorijskih ispitivanja krvi.
+    Navedeni podaci su nam vrlo važni iz sljedećih razloga:
+
+    U pojedinim krajevima Hrvatske više stanovnika često imaju isto ime i prezime, ime oca, pa čak i mjesto i godinu rođenja. Stoga može doći do zamjene u identifikaciji darivatelja krvi. JMBG je jedini podatak koji je različit za svakog građanina Hrvatske.
+    Ako darivatelj krvi ima kasnu reakciju na darivanje krvi, možemo ustanoviti razloge.
+    Gdje se dogodi da bolesnik koji je primio krv oboli od krvlju prenosive bolesti praćenjem podataka transfundirane doze krvi od bolesnika do darivatelja krvi, možemo potvrditi ili isključiti mogućnost zaraze transfuzijom krvi.
+    Postoji jedan mali broj davatelja krvi koje smo iz zdravstvenih razloga trajno isključili iz daljnjeg darivanja krvi. Neki od njih ne mogu prihvatiti činjenicu da više ne smiju darivati krv i nastoje nastaviti darivati krv. Nastavkom darivanja krvi te osobe mogu oštetiti svoje zdravlje ili zdravlje bolesnika koji bi bio liječen njihovom krvlju. Svaka transfuzijska ustanova obvezna je voditi i zanavljati kartoteku trajno odbijenih davatelja kako bi spriječila uzimanje njihove krvi.
+    Nakon svakog darivanja vaša se krv laboratorijski ispituje na prisutnost uzročnika bolesti koji se mogu prenijeti krvlju. Zbog zaštite Vašega zdravlja dužni smo Vas pravodobno obavijestiti o nalazima testiranja.
+    Svi podaci o dobrovoljnom darivatelju krvi i rezultati testiranja liječnička su tajna i tajnost podataka je osigurana.
+    U Hrvatskom zavodu za transfuzijsku medicinu u Zagrebu u potpunosti su kompjutorizirani svi podaci o darivateljima krvi, dozama uzete krvi, pripravcima priređenim iz doza krvi, rezultatima ispitivanja i ustanovi u koju je dostavljena krv. Svi podaci su zaštićeni od neovlaštenog pristupa.
+
+    </string>
+    <string name="pitanje13" formatted="false">
+
+    <b>ZAŠTO VAS LIJEČNIK PRIJE DARIVANJA KRVI PREGLEDA I POSTAVLJA
+    INTIMNA PITANJA? </b>\n
+
+    Odluku može li neka osoba dati krv liječnik donosi na osnovi davateljevih podataka o njegovom zdravstvenom stanju i fizikalnog pregleda.
+
+    Svrha je pregleda dvojaka:
+
+    Zaštita zdravlja davatelja od posljedica davanja krvi i zaštita bolesnika, poglavito od prijenosa zaraznih bolesti preko transfuzije krvi.
+    Transfuzijama krvi liječe se bolesnici od najranije životne dobi, pa sve do duboke starosti.
+    Transfuzijsko liječenje mora biti korisno. Ono nikako ne smije biti štetno za bolesnika. Također, darivanje krvi ne smije ugroziti zdravlje darivatelja krvi.
+    Potpune podatke o mogućim bolestima darivatelja možemo dobiti samo vašim iskrenim odgovorom. Tijekom liječničkog pregleda, prije darivanja krvi, darivatelj mora iskreno odgovoriti na sva postavljena mu pitanja.
+
+    Darivatelji krvi koji nisu sigurni da su zdravi, odnosno ako postoji sumnja da bi njihova krv mogla štetiti bolesniku, ne smiju darivati krv.
+
+    Većina darivatelja čija je krv opasna za zdravlje primatelja, izdvojiti će se već u toku razgovora ili pregleda.
+
+    Neki darivatelji mogu biti zaraženi, ali ne znaju za zarazu. Njih se otkriva laboratorijskim ispitivanjem na prisutnost biljega krvlju prenosivih bolesti. Laboratorijsko testiranje ne može biti zamjena za liječnički pregled.
+
+    Kada odlučite darivati krv zamislite i ponašajte se kao da će vašu krv primiti netko tko vam je vrlo drag i ne želite mu naškoditi. Darivatelj krvi je u moralnom i etičkom pogledu suodgovoran za sigurnost transfuzijskog liječenja bolesnika.
+
+    Svi podaci dobiveni od darivatelja krvi i rezultati testiranja liječnička su tajna i tajnost podataka je osigurana.
+
+    Molimo, nemojte se ljutiti što vas ispitujemo o vašem intimnom ponašanju i molimo vas da odgovarate iskreno. Biti darivatelj krvi privilegija je koja sadrži odgovornost prema bolesniku.
+
+    </string>
+    <string name="pitanje14" formatted="false">
+
+    <b>ZAŠTO SE ORGANIZIRA DOBROVOLJNO DARIVANJE KRVI? </b>\n
+
+    Krv nije moguće proizvesti na umjetan način. Jedini izvor toga lijeka je čovjek - darivatelj krvi. Svi mi, kada nam zatreba krv kao lijek, ovisni smo samo o dobrovoljnim darivateljima krvi.
+
+    Kako bi se osiguralo brzo, kvalitetno i sigurno liječenje bolesnika potrebno je uvijek imati dovoljan broj darivatelja krvi, a time i dovoljne količine krvi u pričuvi.
+    Program okupljanja dobrovoljnih darivatelja krvi je socijalni program. U Hrvatskoj, kao i u drugim europskim zemljama, odnos između darivatelja i transfuzijske službe osniva se na partnerstvu između darivatelja krvi, društva/zajednice i transfuzijske službe.
+    U osnovi transfuzijske djelatnosti jest program okupljanja darivatelja krvi. O provedbi toga programa ovisi liječenje bolesnika transfuzijama krvi, krvnim pripravcima i derivatima plazme.
+
+    Načela rada transfuzijske djelatnosti regulirani su zakonima, propisima i uputama radi:
+
+    osiguranja mogućnosti liječenja transfuzijama krvi, krvnim pripravcima i derivatima plazme svakom bolesniku kojem je takvo liječenje potrebno,
+    osiguranja opskrbe krvlju i krvnim pripravcima tijekom čitave godine, u količinama koje su dovoljne za liječenje bolesnika i postavljanje dijagnoze,
+    sigurnosti darivatelja i bolesnika. Potrebno je postići najviši prihvatljiv standard u prikupljanju krvi, prikupljanju pojedinih krvnih sastojaka, laboratorijskom ispitivanju, izradi pripravaka iz krvi i njihovoj upotrebi primjenom svih poznatih znanstvenih spoznaja,
+    provedbe djelotvornog i ekonomičnog uzimanja, obrade i uporabe nacionalnih zaliha krvi i krvnih pripravaka.
+
+    </string>
+    <string name="pitanje15" formatted="false">
+
+        <b>TKO ORGANIZIRA DOBROVOLJNO DARIVANJE KRVI? </b>\n
+
+    Organizaciju dobrovoljnog darivanja krvi u većini zemalja svijeta provode humanitarne organizacije poput Crvenog križa i Zelenog polumjeseca, razni klubovi dobrovoljnih darivatelja krvi i transfuzijska služba.
+    U Hrvatskoj, promidžbu davalaštva i organizaciju akcija darivanja krvi zajednički provode Hrvatski Crveni križ i Transfuzijska služba Hrvatske na načelima dobrovoljnosti, anonimnosti, besplatnosti i solidarnosti.
+    Odabir darivatelja krvi i uzimanje krvi obavljaju stručni, medicinski djelatnici transfuzijske službe u zdravstvenim ustanovama koje su u državnom ili županijskom vlasništvu.
+    Pripravu krvi i krnih pripravaka za transfuzijsko liječenje bolesnika provode transfuzijske ustanove u državnom ili županijskom vlasništvu.
+    Zdravstvene ustanove u privatnome vlasnišvu ne smiju ni uzimati krv, ni priređivati krvne pripravke.
+
+    </string>
+    <string name="pitanje16" formatted="false">
+
+    <b>TKO JE DOBROVOLJNI DARIVATELJ KRVI? </b>\n
+
+    Definiciju dobrovoljnog darivatelja krvi odredila je Međunarodna udruga transfuziologa (ISBN), Međunarodni Crveni križ (IFCR), Svjetska zdravstvena organizacija (WHO) i Europsko vijeće (Council of Europe) i prihvaćena je u svim zemljama svijeta.
+
+    Dobrovoljni darivatelj krvi je osoba koja daruje krv, plazmu ili stanične dijelove krvi po svojoj slobodnoj volji i ne prima za to nikakvu nadoknadu, ni novčanu niti na način koji se može smatrati nadomjestkom novca. Skromna uspomena (dar) i osvježenje nakon davanja krvi prihvatljivi su za dobrovoljno davalaštvo krvi.
+    Dobrovoljni darivatelji krvi je posredan, aktivan sudionik u liječenju bolesnika, tj. on je aktivna veza između zdravog dijela društva i bolesnika.
+
+        </string>
+    <string name="pitanje17" formatted="false">
+
+    <b>KOJA PRAVA I POGODNOSTI IMAJU DOBROVOLJNI DARIVATELJI KRVI U HRVATSKOJ? </b>\n
+
+    1.        U Republici Hrvatskoj dobrovoljni darivatelji krvi imaju pravo na plaćeni dopust (1 slobodan dan) s naslova Dobrovoljnog darivanja krvi koji se ostvaruje tijekom kalendarske godine sukladno radnim obavezama. Zakon o radu(pročišćeni tekst) čl. 57. st. 5 (NN 137/04).
+
+    2.        Ovo pravo je povoljnije riješeno pojedinim kolektivnim ugovorima, tako primjerice dobrovoljnim darivateljima krvi pripada pravo na 2 dana plaćenog dopusta za svako darivanje krvi do najviše 10 dana u kalendarskoj godini. Kolektivni ugovor za djelatnost zdravstva i zdravstvenog osiguranja čl. 43. st.1. podstavak 9.(NN 09/05).
+
+    3.        Za dobrovoljne darivatelje krvi koji su osiguranici HZZO ( Hrvatskog zavoda za zdravstveno osiguranje), i to za muškarce koji su krv darovali više od 35 puta i žene koje su darovale krv više od 25 puta, sredstva za premiju dopunskog zdravstvenog osuguranja koje provodi HZZO osiguravaju se u državnom proračunu: Zakon o dobrovoljnom zdravstvenom osiguranju čl. 14a. stavak1. točka 3 (NN 85/06, NN 150/08)
+
+    4.       Dobrovoljni darivatelji krvi u gradu Zagrebu imaju pravo na besplatnu godišnju pokaznu kartu za javni prijevoz koji se odvija unutar područja javnog prijevoza Grada Zagreba, i to muškarci koji su darovali krv 30 i više puta i žene koje su krv darovale 20 i više puta, ako to pravo ne ostvaruju po drugoj osnovi. (Odluka gradske skupštine Grada Zagreba o socijalnoj skrbi od 28.09.06., te Odluka o izmjenama odluke o socijalnoj skrbi od 31.03.09. čl.5.
+
+    5.        Za dobivanje besplatne pokazne karte u HZTM je potrebno donijeti potvrdu od radne organizacije, ako je osoba zaposlena a ne prima plaćeni prijevoz ili kartu, a ako je umirovljenik - potvrdu da je u mirovini. U osobnoj iskaznici mora biti navedeno prebivalište - Zagreb.
+
+    6.        Korisnike prava utvrđuje Ured na temelju podataka HZTM uz predočenje dokaza potrebnih       za ostvarenje prava prema navedenoj odluci.
+
+
+    </string>
+    <string name="pitanje18" formatted="false">
+
+    <b>KOLIKO LJUDI DARUJE KRV? </b>\n
+
+    Teoretski, krv može dati oko 60% svih muškaraca i oko 50% žena u pučanstvu.
+
+    Stvarni postotak ljudi koji daju krv je manji - u Hrvatskoj krv daje 3,8% stanovništva, odnosno sakupi se 38 doza na 1000 stanovnika.
+    U Hrvatskom registru darivatelja krvi evidentirano je oko 100 000 darivatelja koji godišnje daju oko 160 000 doza krvi.
+    70% darivatelja krvi su muškarci, a 30% su žene.
+    85% svih darivatelja su višestruki davatelji krvi koji daruju krv do 2 puta godišnje, odnosno 3 do 5 puta u životu.
+
+    </string>
+    <string name="pitanje19" formatted="false">
+
+    <b>TKO NE SMIJE DARIVATI KRV? </b>\n
+
+    Oko 10% darivatelja se tijekom pregleda odbije. Oni mogu biti privremeno ili trajno odbijeni. Razlog odbijanja uvijek je opasnost od uzimanja krvi za darivateljevo zdravlje ili opasnost od krvnih pripravaka za bolesnikovo zdravlje.
+    Krv ne smiju davati osobe koje bi time oštetile svoje zdravlje ili bi njihova krv mogla ugroziti bolesnikovo zdravlje.
+
+    Krv ne smiju davati osobe koje boluju od akutne ili kronične bolesti, uzimaju antibiotike ili neke druge lijekove, neispavane osobe, osobe koje su na dugotrajnoj dijeti i osobe s rizičnim ponašanjem.
+
+    Darivatelju koji je odbijen iscrpno se objasne  razlozi zbog kojih ne može dati krv i daju mu se odgovori na sva njegova pitanja.
+
+    Trajno odbijanje darivatelja:
+
+    Trajno se odbiju od davanja krvi osobe koje su bolovale ili sada boluju od teških kroničnih bolesti dišnog i probavnog sustava kao i osobe koje boluju od bolesti srca i krvnih žila, zloćudnih bolesti, bolesti jetre, AIDS-a, šećerne bolesti (osobe liječene inzulinskom terapijom), živčanih i duševnih bolesti.
+
+            Trajno se odbijaju osobe koje su zbog svog ponašanja ili aktivnosti izložene riziku
+
+            dobivanja zaraznih bolesti koje se mogu prenijeti krvlju:
+
+    ovisnici o alkoholu ili drogama,
+    muškarci koji su u životu imali spolne odnose s drugim muškarcima,
+    žene i muškarci koji su imali spolni odnos s prostitutkama,
+    osobe koje često mijenjaju seksualne partnere (promiskuitetne osobe),
+    osobe koje su uzimale drogu intravenskim putem,
+    osobe koje su liječene zbog spolno prenosivih bolesti (sifilis, gonoreja),
+    osobe koje su HIV-pozitivne,
+    seksualni partneri gore navedenih osoba.
+    Privremeno odbijanje darivatelja:
+
+    osobe koje su konzumirale alkoholna pića unutar 8 sati prije darivanja krvi
+    s lakšim akutnim bolesnim stanjima (prehlade, poremetnje probavnog sustava, smanjenog željeza u krvi i sl.),
+    nakon operativnih zahvata,
+    nakon primanja transfuzija, primanja nekih cjepiva,
+    s lakšom poremetnjom krvnog tlaka
+    žene za vrijeme menstruacije, trudnoće i dojenja
+    osobe koje toga dana obavljaju opasne poslove( rad na visini, dubini)
+
+
+    Osobe koje uzimaju lijekove obvezno moraju to kazati liječniku tijekom liječničkog pregleda prije davanja krvi. Lijekovi se mogu prenijeti krvlju i u bolesnika izazvati neželjeno djelovanje.
+    Ovi podaci otkrivaju se u tijeku razgovora s darivateljem i njegova pregleda.
+
+    Molimo budite iskreni pri svakom liječničkom pregledu za davanje krvi. Izrecite liječniku svoje sumnje jer time štitite i svoje i tuđe zdravlje.
+
+    Postati darivatelj krvi je privilegija koja sadrži i odgovornost prema bolesniku.
+
+    </string>
+    <string name="pitanje20" formatted="false">
+
+    <b>NA KOJE NAČINE MOŽETE DARIVATI KRV? </b>\n
+
+    1.      Najčešći način davanja krvi je davanje jedne doze "pune" krvi.
+
+    To znači da se u plastičnu vrećicu za uzimanje krvi izvadi 450 mL krvi u kojoj se nalaze svi njezini sastojci: eritrociti, plazma, trombociti i leukociti. Davanje "pune" krvi traje 8 do 12 minuta.
+    Fizikalnim postupcima, tj. posebnim centrifugiranjem, doza "pune" krvi se razdvaja na sastavne dijelove koje nazivamo krvnim pripravcim: koncentrat eritrocita, koncentrat trombocita, koncentrat leukocita, doza plazme.
+
+    2.  Drugi način davanja je uzimanje samo jednog ili više raznih krvnih sastojaka pomoću aparata kojeg nazivamo stanični separator.
+
+    </string>
+    <string name="pitanje21" formatted="false">
+
+        <b>ZAŠTO SE DARUJE 450 mL KRVI? </b>\n
+
+    Krv je lijek. Da bi liječenje bolesnika bilo uspješno, mora se primijeniti u točno određenoj količini kao i svaki drugi lijek.
+    Organizam odrasle osobe, tjelesne težine iznad 55 kg ima više od 4,5 L krvi. Prosječno, krv čini 12% tjelesne težine čovjeka. Gubitak krvi do 15% organizam podnosi bez ikakvih popratnih pojava. Darivanjem 450mL krvi organizam gubi manje od 10% ukupne količine krvi.
+    Uobičajena doza uzete krvi je 450mL. To je standardna doza uzete krvi i na osnovu te količine izračunava se broj doza proizvedenih krvnih pripravaka za liječenje bolesnika.
+    Iz jedne doze od 450mL krvi priređuje se 1 doza koncentrata eritrocita, 1 doza koncentrata trombocita i 1 doza plazme.
+    Bolesnici liječeni transfuzijama krvi prosječno prime 2 doze koncentrata eritrocita, 1,5 doze plazme i 6 do 8 doza koncentrata trombocita.
+
+    </string>
+    <string name="pitanje22" formatted="false">
+
+        <b>KAKO SE PROVODI DARIVANJE KRVNIH SASTOJAKA STANIČNIM SEPARATOROM? </b>\n
+
+    Liječnički pregled i provjera količine hemoglobina jednak je kao u darivatelja "pune" krvi.
+
+    Darivatelj krvi je udobno smješten na krevetu za darivanje krvi.
+    Iskusan zdravstveni tehničar odabere venu u lakatnoj jami i bezbolno uvodi iglu u venu.
+    Igla je povezana s plastičnom cijevi koja ulazi u stanični separator.
+    U staničnom je separatoru uložen plastični set za odvajanje krvnog sastojka. Darivatelj je cijelo vrijeme spojen sa staničnim separatorom.
+    Krv iz jedne vene ulazi kroz plastičnu cijev u plastični set uložen u centrifugu staničnog separatora. Centrifugiranjem se izdvaja sastojak krvi, a ostali dio se vraća darivatelju u venu iste ili druge ruke.
+    Tim načinom se dobivaju pripravci krvi visoke koncentracije i kvalitete.
+    Igla i svi dijelovi plastičnog sustava za davanje staničnim separatorom su sterilni i samo za jednokratnu uporabu, tj. mogu se primijeniti samo za jednokratno davanje krvnih sastojaka pa se ne mogu prenijeti uzročnici zaraznih bolesti.
+    Postupak uzimanja krvi staničnim separatorom traje duže nego davanje "pune" krvi:
+    Postupak davanja plazme traje do 30 min., a do sat i pol za davanje trombocita.
+
+    </string>
+    <string name="pitanje23" formatted="false">
+
+    <b>ZAŠTO SE UZIMA KRV STANIČNIM SEPARATOROM? </b>\n
+
+    Uspješno liječenje bolesnika ne može se provesti bez dovoljnih količina krvi i krvnih pripravaka. Tijekom transfuzijskog liječenja bolesnici dobivaju samo sastojak krvi koji im je potreban za liječenje. Količina primljenih pripravaka krvi ovisi o vrsti bolesti i načinu liječenja.
+
+    Transfuzijski liječeni bolesnik prosječno primi 2 doze koncentrata eritrocita, 1,5 doze plazme i 6 do 8 doza koncentrata trombocita.
+    Kiruški bolesnici trebaju u liječenju više koncentrata eritrocita, bolesnici s opeklinama više trebaju plazmu, a bolesnici s malignim bolestima koji se liječe kemoterapijom ili transplatacijom koštane srži trebaju više desetaka doza koncentrata trombocita.
+    Liječenje bolesnika s leukemijom i drugim zloćudnim bolestima krvi i ostalih organa vrlo je uspješno, ali traje mjesecima i zahtijeva velike količine koncentrata trombocita. 70% leukemija u djece i više od 50% leukemija u mlađih odraslih osoba može se potpuno izliječiti primjenom kemoterapije i / ili transplatacijom koštane srži uz redovito transfuzijsko liječenje krvnim pripravcima.
+    Iz jedne doze darovane krvi od 45mL pripravlja se samo jedna doza koncentrata eritrocita, jedna doza plazme, jedna doza koncentrata trombocita ili jedna doza koncentrata leukocita. Tim načinom možemo zadovoljiti potrebe bolesnika za eritrocitima, ali se ne mogu sakupiti dovoljne količine plazme i trombocita.
+    Od jednog darivatelja na staničnom separatoru dobiva se količina trombocita koja je jednaka količini koja se dobije pripravljanjem koncentrata trombocita iz 6 do 8 doza krvi. Na taj način koncentrat trombocita priređen iz krvi jednog darivatelja može zadovoljiti dnevnu potrebu liječenja jednog bolesnika.
+    Darivatelji staničnim separatorom pozivaju se za određenog bolesnika, ovisno o njihovoj krvnoj grupi.
+    Zbog male količine stanica koje uzimamo i zbog brzine kojom se one u organizmu obnavljaju, češće se može darivati krv staničnim separatorom nego klasičnim načinom.
+    Darivanje krvnih sastojaka staničnim separatorom je izuzetno značajno u liječenju bolesnika s rjeđim krvnim grupama (AB neg.; O neg.; A neg.; B neg.) u vrijeme nestašice krvi.
+
+    Dođite i upoznajte se s davanjem krvi staničnim separatorom u prostorijama Hrvatskog zavoda za transfuzijsku medicinu u Zagrebu, Petrova 3 ili tražite informacije na tel.: 46 00 336.
+
+    </string>
+    <string name="pitanje24" formatted="false">
+
+    <b>KAKO ČESTO SE MOŽE DARIVATI KRV? </b>\n
+
+    1.       Muškarci mogu darivati punu krv svaka 3 mjeseca, a žene svaka 4 mjeseca.
+
+    2.       Darivatelj krvi staničnim separatorom mogu darivati češće:
+
+    davanje trombocita staničnim separatorom: do 12 puta godišnje. Razmak između dva darivanja mora biti najmanje 3 dana.
+    darivanje plazme staničnim separatorom: do 25 puta godišnje. Razmak između dva davanja mora biti najmanje 3 dana.
+    3.       Razmak između darivanja pune krvi i darivanja krvi na staničnom separatoru mora biti najmanje 3 tjedna, isto vrijedi i u obrnutom slučaju tj. nakon darivanja krvi na staničnom separatoru mora proći najmanje 3 tjedna da bi darivatelj mogao pristupiti darivanju pune krvi.
+
+    </string>
+    <string name="pitanje25" formatted="false">
+
+    <b>MORA LI SE PRIJE DARIVANJA KRVI BITI "NA TAŠTE"? </b>\n
+
+    Prije davanja krvi nije potrebno biti natašte.
+
+    Davanje krvi je sastavni dio svakodnevnog ljudskog načina života i čovjek na taj dan treba uobičajeno jesti i piti.
+    Osjećati ćete se bolje ako nekoliko sati prije davanja krvi pojedete lagani obrok. Jedino Vas molimo da unutar 8 sati prije davanja krvi ne jedete izrazito masnu hranu i ne pijete alkohol jer njihovi sastojci mogu transfuzijom krvi biti uneseni u bolesnika i nanijeti mu štetu.
+
+    </string>
+    <string name="pitanje26" formatted="false">
+
+    <b>MORA LI SE NAKON DARIVANJA KRVI NEŠTO POJESTI I POPITI? </b>\n
+
+    Posebni medicinski razlozi ne zabranjuju darivatelju da jede ili pije nakon davanja krvi. To je oblik društvenog ponašanja.
+
+    Uobičajeno je nakon darivanja krvi sjesti u društvu drugih darivatelja i osvježiti se laganim obrokom i bezalkoholnim pićem.
+    Kroz to vrijeme darivatelj je pod kontrolom zdravstvenih djelatnika. Želimo znati da se dobro osjećate prije nego napustite mjesto darivanja krvi.
+
+    </string>
+    <string name="pitanje27" formatted="false">
+
+        <b>ZAŠTO SE DARIVANJE KRVI NE PLAĆA? </b>\n
+
+    Darivanje krvi za novčanu naknadu je vrsta poslovno-trgovačkog odnosa. Zbog materijalne nagrade plaćeni darivatelji često prešućuju važne podatke o osobnom zdravstvenom stanju te darivanje krvi može narušiti njihovo zdravlje, a primjena njihove krvi za liječenje može pogoršati stanje bolesnika.
+
+    U plaćenih darivatelja krvi 10 puta je veća učestalost prisutnosti uzročnika zaraznih bolesti koje se prenose krvlju: hepatitis B i C, sifilis i AIDS. Transfuzije krvi od plaćenih darivatelja imaju veći rizik za prijenos tih bolesti u bolesnika.
+    Osim toga, plaćanjem darivanje krvi nije moguće motivirati dovoljan broj osoba za darivanje krvi i samo plaćanjem darivatelja nije moguće uvijek osigurati potrebno transfuzijsko liječenje svim bolesnicima.
+    U nekim zemljama plaća se darivanje plazme iz koje se proizvode određeni lijekovi.
+    U Hrvatskoj se, kao i u najrazvijenijim zemljama svijeta, zbog zaštite i sigurnosti bolesnika te pravodobnog i uspješnog transfuzijkog liječenja provodi samo dobrovoljno darivanje krvi.
+
+    </string>
+    <string name="pitanje28" formatted="false">
+
+    <b>ZAŠTO STRANI DRŽAVLJANI NE MOGU DARIVATI KRV U RH? </b>\n
+
+    Transfuzijska služba svake zemlje prati epidemiološko stanje u zemlji, prati uvijete života darivatelja i prema tim pokazateljima određuje kako i kojim testovima ispitivati krv darivatelja na prisutnost uzročnika zaraznih bolesti.
+
+    Zbog toga svaka zemlja može biti sigurna samo u krv i krvne pripravke dobivene od darivatelja krvi u toj zemlji.
+
+    Pravilnikom o krvi i krvnim sastojcima od 16. prosinca 1998. (NN 14/99) u čl. 9, u stavku 2  je propisano da darivatelj krvi mora biti  državljanin Republike Hrvatske.
+
+    </string>
+
+</resources>

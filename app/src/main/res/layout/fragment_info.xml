@@ -1,0 +1,56 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true">
+
+    <!--<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--tools:context="com.example.karlo.aplikacija1.InfoFragmentFragment">-->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <!--
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="@string/info"
+                android:textColor="@color/colorPrimary"
+                android:textSize="60sp">
+
+            </TextView>
+        -->
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Blood types"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />
+
+        <ListView
+            android:id="@+id/bloodTypeListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foregroundGravity="center" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="...and their stash (connected by IDs)"
+            android:textColor="@color/colorPrimary"
+            android:textSize="20sp" />
+
+        <ListView
+            android:id="@+id/bloodUnitListView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:foregroundGravity="center" />
+    </LinearLayout>
+    <!--</RelativeLayout>-->
+</ScrollView>

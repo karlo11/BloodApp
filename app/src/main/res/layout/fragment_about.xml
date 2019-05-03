@@ -1,0 +1,358 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.karlo.aplikacija1.AboutFragment">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/linearLayoutAbout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="25dp">
+
+            <TextView
+                android:id="@+id/pitanje1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje1"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje2"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje3"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje4"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje5"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje6"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje7"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje8"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje9"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje10"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje10"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje11"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje11"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje12"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje12"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje13"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje13"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje14"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje14"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje15"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje15"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje16"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje16"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje17"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje17"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje18"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje18"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje19"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje19"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje20"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje20"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje21"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje21"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje22"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="3"
+                android:minLines="3"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje22"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje23"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje23"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje24"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="1"
+                android:minLines="1"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje24"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje25"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje25"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje26"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje26"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje27"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje27"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/pitanje28"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:maxLines="2"
+                android:minLines="2"
+                android:paddingBottom="9dp"
+                android:text="@string/pitanje28"
+                android:textColor="@color/colorPrimary"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</FrameLayout>
