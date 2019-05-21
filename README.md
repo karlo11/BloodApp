@@ -1,5 +1,13 @@
-BloodApp
+# Blood App
 
-work in progress
 
-final bachelor's thesis project
+  - school project, for final thesis
+  - Android app
+  - work in progress
+
+
+  - probably still many bugs
+
+
+
+  -PS looking for a better name
